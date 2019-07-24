@@ -5,9 +5,9 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Sound Detector FeatherWing"
+Date "2019-07-24"
+Rev "1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -549,4 +549,6 @@ F 3 "" H 8450 4500 50  0001 C CNN
 	1    8450 4500
 	1    0    0    -1  
 $EndComp
+Text Notes 4600 3100 0    50   ~ 0
+Connect to\nhttps://www.sparkfun.com/products/12642
 $EndSCHEMATC
