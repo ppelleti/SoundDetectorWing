@@ -21,7 +21,7 @@ Detector. There are optional places for two SMT decoupling capacitors.
 SparkFun recommends running the Sound Detector at 5V, rather than
 3.3V, so the Sound Detector is powered from the Feather's VUSB pin, to
 get a solid 5V supply.  A consequence of this is that *this
-FeatherWing will not work on batter power*; you must have USB plugged
+FeatherWing will not work on battery power*; you must have USB plugged
 in for power.
 
 * [View schematic](SoundDetectorWing.pdf)
