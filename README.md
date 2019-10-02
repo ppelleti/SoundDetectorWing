@@ -18,8 +18,14 @@ The board has three M2.5 mounting holes which should line up with the
 Feather, and two M3 mounting holes which should line up with the Sound
 Detector. There are optional places for two SMT decoupling capacitors.
 
+SparkFun recommends running the Sound Detector at 5V, rather than
+3.3V, so the Sound Detector is powered from the Feather's VUSB pin, to
+get a solid 5V supply.  A consequence of this is that *this
+FeatherWing will not work on batter power*; you must have USB plugged
+in for power.
+
 * [View schematic](SoundDetectorWing.pdf)
-* [Order board on OSH Park][5]
+* [Order board on OSH Park][5] (photo shows the OSH Park "after dark" option)
 
 ## Bill of Materials
 
