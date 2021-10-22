@@ -45,7 +45,7 @@ in for power.
 [R2]: https://www.digikey.com/products/en?keywords=S3.3KCACT-ND
 [RV1]: https://www.digikey.com/products/en?keywords=3352T-103LF-ND
 
-[1]: http://kicad-pcb.org/
+[1]: http://kicad.org/
 [2]: https://learn.adafruit.com/adafruit-feather/feather-specification
 [3]: https://www.sparkfun.com/products/12642
 [4]: https://funwithsoftware.org/posts/2018-08-31-feather-ascii-art-pinout.html
